@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-practice-d8e40": {
+      "hosting": {
+        "firebase-angular-crud": [
+          "fir-practice-d8e40"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-practice-d8e40"
+  }
+}

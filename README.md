@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=eFtrzzP2wMc&list=PL1UHgDbN7Tm4SZ6yLE9yDI-YDtf02uc7d&index=2
+ng add @angular/fire
+
 # FirebaseAngularCrud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
